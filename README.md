@@ -35,7 +35,7 @@ You can take an in depth look at my process making this program in this blog [po
 1. Download the `GameControllerInput` folder and open the arduino sketch file inside named `GameControllerInput.ino` on Arduino IDE
     * If Arduino IDE is not installed, check the [Arduino Support Page](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE) to learn how to install it
 
-2. Follow [installation steps](https://coms3930.notion.site/Lab-1-TFT-Display-a53b9c10137a4d95b22d301ec6009a94) to correctly set up the libraries needed to write and run this code
+2. Set up your breadboard and components so that it follows the Fritzing diagram circuit configuration shown below:
 
 3. Once everything is set up, you can connect your ESP32 to your computer via USB-C and click on the `Upload` sketch button on the top left of the Arduino IDE after selecting your board and appropriate configurations. This will make the code compile and store onto the ESP32.
 ![Connection Shown](images/SetUp.jpg)
