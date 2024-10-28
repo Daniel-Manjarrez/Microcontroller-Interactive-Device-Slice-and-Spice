@@ -47,7 +47,7 @@ You can take an in depth look at my process making this program in this blog [po
 ![Connection Shown](images/processingScreenshot.png)
 
 6. Lastly, feel free to 3D print the STL files in the `EnclosureSTLFiles` folder to then assemble an enclosure for the controller's circuit with tape to resemble a traditional looking controller which can potentionally look like this:
-![Connection Shown](images/processingScreenshot.png)
+![Connection Shown](images/controllerScreenshot.png)
 
 ## Design Process and Goals
 
