@@ -7,7 +7,7 @@ A cooking themed interactive device that's a video game controller with game des
 
 ## Blog Post
 
-You can take an in depth look at my process making this program in this blog [post](https://brassy-moonflower-6cd.notion.site/Slice-and-Spice-S2-12d18fb9102d80a786a9e72461ec0fd8?pvs=4)
+You can take an in depth look at my process making this device and program in this blog [post](https://brassy-moonflower-6cd.notion.site/Slice-and-Spice-S2-12d18fb9102d80a786a9e72461ec0fd8?pvs=4)
 
 ## Table of Contents
 
