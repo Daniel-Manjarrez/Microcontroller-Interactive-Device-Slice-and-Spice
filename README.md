@@ -25,7 +25,7 @@ You can take an in depth look at my process making this program in this blog [po
  + 1 Potentiometer
  + 1 Joystick
  + 1 Push Button
- + [Jumper Wires] (https://www.digikey.com/en/products/detail/bud-industries/BC-32626/5291560)
+ + [Jumper Wires](https://www.digikey.com/en/products/detail/bud-industries/BC-32626/5291560)
  + Male to Female Jumper Wires
  + 3D Printer
  + Adhesive Tape of Your Choosing
