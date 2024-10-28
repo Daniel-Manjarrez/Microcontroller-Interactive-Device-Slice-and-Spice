@@ -44,6 +44,7 @@ You can take an in depth look at my process making this program in this blog [po
     * If Procssing IDE is not installed, check the [Processing Support Page](https://processing.org/download) to learn how to install it
 
 5. After confirming that the Arduino code compiled and now runs on your ESP32, you can connect your ESP32 to your computer via USB-C and click on the `Run` button on the top left of the Processing IDE after selecting your port with appropriate configurations to the Processing file. This will render the game on your screen.
+![Connection Shown](images/processingScreenshot.png)
 
 6. Lastly, feel free to put up your enveloped ESP32 with generative fall art somewhere for display![Enveloped shown](images/TreeShot2.png)
 
