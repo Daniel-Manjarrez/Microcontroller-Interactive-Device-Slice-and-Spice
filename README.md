@@ -65,12 +65,12 @@ This image represents the inspiration behind creating the controller for interac
 
 ## Demos
 
-This image showcases the final design of the enveloped generative art display.
+This image showcases the final game rendering of the interactive game program.
 
 - Final Result Static Image: 
 ![Final Result](images/TreeShot.png)
 
-This image showcases the animated motion of the enveloped generative art display.
+This image showcases the animated motion of the final game rendering of the interactive game program.
 
 - Final Result Animated Image: 
 
