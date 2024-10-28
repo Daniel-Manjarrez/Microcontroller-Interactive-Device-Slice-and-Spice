@@ -61,7 +61,7 @@ This game reference is the inspiration behind the game of my interactive device 
 
   ![Fruit Ninja](images/FruitNinja.jpg)
 
-This image represents the inspiration behind creating the controller for interacting with the game that is display on the screen.
+This image represents the inspiration behind creating the controller for interacting with the game that is displayed on the screen.
 
 - Controller Design Reference:
 
