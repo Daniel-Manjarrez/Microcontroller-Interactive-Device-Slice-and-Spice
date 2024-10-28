@@ -51,7 +51,7 @@ You can take an in depth look at my process making this program in this blog [po
 
 ## Design Process and Goals
 
-This game reference is the inspiration behind the game of my interactive device that depicts the depicts fruit that is being cut by the play before it falls down to the cutting board at the bottom which inspired me to make a cooking themed spin on the game.
+This game reference is the inspiration behind the game of my interactive device that depicts fruit being cut by the player before it falls down to the cutting board at the bottom which inspired me to make a cooking themed spin on the game.
 
 - Game Inspiration Reference:
 
