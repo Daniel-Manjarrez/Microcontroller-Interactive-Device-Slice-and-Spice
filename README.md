@@ -51,9 +51,9 @@ You can take an in depth look at my process making this program in this blog [po
 
 ## Design Process and Goals
 
-This image reference is the inspiration behind  the design of my generative fall art that depicts the leaves of a tree falling down and changing color as the days pass throughout the autumn season.
+This game reference is the inspiration behind the game of my interactive device that depicts the depicts fruit that is being cut by the play before it falls down to the cutting board at the bottom which inspired me to make a cooking themed spin on the game.
 
-- Fall Leaf Color Reference:
+- Game Inspiration Reference:
 
   ![Leaf Colors](images/autumnLeaves.jpg)
 
