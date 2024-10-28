@@ -57,11 +57,11 @@ This game reference is the inspiration behind the game of my interactive device 
 
   ![Fruit Ninja](images/FruitNinja.jpg)
 
-This image represents the thought process behind creating the leaves that were displayed in my art.
+This image represents the inspiration behind creating the controller for interacting with the game that is display on the screen.
 
-- Leaf Design Reference:
+- Controller Design Reference:
 
-  ![Leaf Design](images/DesignWork.png)
+  ![Controller Design](images/DesignWork.png)
 
 ## Demos
 
