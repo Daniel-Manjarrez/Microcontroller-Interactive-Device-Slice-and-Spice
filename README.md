@@ -68,7 +68,7 @@ This image represents the inspiration behind creating the controller for interac
 This image showcases the final game rendering of the interactive game program.
 
 - Final Result Static Image: 
-![Final Result](images/TreeShot.png)
+![Final Result](images/gameSatic.png)
 
 This image showcases the animated motion of the final game rendering of the interactive game program.
 
