@@ -4,6 +4,7 @@ A cooking themed interactive device that's a video game controller with game des
 *Here's a video of the game and controller in action: https://youtu.be/tnQcMq5Ct8E?feature=shared*
 
 ![Final Animation](images/gameMotion.gif)
+![Final Animation](physicalShowcase.gif)
 
 ## Blog Post
 
