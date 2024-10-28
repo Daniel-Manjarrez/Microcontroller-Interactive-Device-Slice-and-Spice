@@ -39,7 +39,6 @@ You can take an in depth look at my process making this program in this blog [po
 ![Connection Shown](images/circuit.png)
 
 4. Once everything is set up, you can connect your ESP32 to your computer via USB-C and click on the `Upload` sketch button on the top left of the Arduino IDE after selecting your board and appropriate configurations. This will make the code compile and store onto the ESP32.
-![Connection Shown](images/SetUp.jpg)
 
 5. After confirming that the code compiled and now runs on your ESP32, you can start designing your envelope and inserting your ESP32 microcontroller in the center with the display exposed. You can check this [guide](https://coms3930.notion.site/Module-1-Install-10a350cc6f058045b899e7d3c2a3c8f5) on how to attach the ESP32 and a battery to the envelope.
 
