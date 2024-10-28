@@ -74,7 +74,7 @@ This image showcases the animated motion of the final game rendering of the inte
 
 - Final Result Animated Image: 
 
-  ![Final Animation](images/Tree.gif)
+  ![Final Animation](images/gameMotion.gif)
 
 ## Contributors
 
