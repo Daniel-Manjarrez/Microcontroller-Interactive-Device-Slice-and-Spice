@@ -32,7 +32,7 @@ You can take an in depth look at my process making this program in this blog [po
 
 
 ## Installation
-1. Download the `FallingFoliageFade` folder and open the arduino sketch file inside named `FallingFoliageFade.ino` on Arduino IDE
+1. Download the `GameControllerInput` folder and open the arduino sketch file inside named `GameControllerInput.ino` on Arduino IDE
     * If Arduino IDE is not installed, check the [Arduino Support Page](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE) to learn how to install it
 
 2. Follow [installation steps](https://coms3930.notion.site/Lab-1-TFT-Display-a53b9c10137a4d95b22d301ec6009a94) to correctly set up the libraries needed to write and run this code
