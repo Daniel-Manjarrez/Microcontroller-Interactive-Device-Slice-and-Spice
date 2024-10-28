@@ -1,7 +1,7 @@
 # Microcontroller Interactive Device Slice and Spice
 A cooking themed interactive device that's a video game controller with game designed for an ESP32 microcontroller
 
-*Here's a video of the display in action: https://youtu.be/tnQcMq5Ct8E?feature=shared*
+*Here's a video of the game and controller in action: https://youtu.be/tnQcMq5Ct8E?feature=shared*
 
 ## Blog Post
 
