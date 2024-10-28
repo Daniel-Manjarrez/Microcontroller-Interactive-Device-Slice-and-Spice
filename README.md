@@ -46,7 +46,7 @@ You can take an in depth look at my process making this program in this blog [po
 5. After confirming that the Arduino code compiled and now runs on your ESP32, you can connect your ESP32 to your computer via USB-C and click on the `Run` button on the top left of the Processing IDE after selecting your port with appropriate configurations to the Processing file. This will render the game on your screen.
 ![Connection Shown](images/processingScreenshot.png)
 
-6. Lastly, feel free to 3D print the STL files in the `EnclosureSTLFiles` folder to then assemble an enclosure for the controller's circuit with tape to resemble a traditional controller which can look like this below:
+6. Lastly, feel free to 3D print the STL files in the `EnclosureSTLFiles` folder to then assemble an enclosure for the controller's circuit with tape to resemble a traditional looking controller which can potentionally look like this below:
 ![Connection Shown](images/processingScreenshot.png)
 
 ## Design Process and Goals
