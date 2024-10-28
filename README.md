@@ -61,7 +61,7 @@ This image represents the inspiration behind creating the controller for interac
 
 - Controller Design Reference:
 
-  ![Controller Design](images/DesignWork.png)
+  ![Controller Design](images/controllerReference.png)
 
 ## Demos
 
